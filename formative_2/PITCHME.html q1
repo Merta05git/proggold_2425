@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic Web App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Dynamic Web App</h1>
+    </header>
+    <main>
+        <section id="description">
+            <h2>Application Overview</h2>
+            <p>This is a static page overview of the web application concept.</p>
+        </section>
+        <section id="entities">
+            <h2>Entities</h2>
+            <ul>
+                <li>Entity 1: Events</li>
+                <li>Entity 2: Comments</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 My Dynamic Web App</p>
+    </footer>
+</body>
+</html>
